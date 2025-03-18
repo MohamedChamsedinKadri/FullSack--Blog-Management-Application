@@ -1,0 +1,72 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "postId": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b",
+    "author": "Jane Smith",
+    "content": "Great post! Really helped me understand React Hooks better.",
+    "date": "2026-01-10T13:00:00Z"
+  },
+  {
+    "id": "5cd8d687-9ed9-4626-b534-5eee836fa0c9",
+    "author": "Shamseddine",
+    "content": "Totally agree! This post clarified a lot of concepts for me.",
+    "postId": "cdef12345678-90ab-cdef-1234-567890abcdef1",
+    "date": "2025-03-18T05:47:16.417Z"
+  },
+  {
+    "id": "7e0e381f-5394-4452-9a83-65de7535b325",
+    "author": "Sarah Johnson",
+    "content": "This is a great explanation of React components. Thanks!",
+    "postId": "567890abcdef1-2345-6789-0abc-def123456789",
+    "date": "2025-03-18T16:35:19.165Z"
+  },
+  {
+    "id": "cc191a4b-7fde-4b6e-a3c9-f4f375689d68",
+    "author": "Michael Brown",
+    "content": "Very insightful post on React state management. Helped me a lot!",
+    "postId": "567890abcdef1-2345-6789-0abc-def123456789",
+    "date": "2025-03-18T16:47:38.834Z"
+  },
+  {
+    "id": "b0fa6b38-de93-4603-9cb7-9c21a74a37cc",
+    "author": "Emily Davis",
+    "content": "This post on React routing is fantastic. Clear and concise!",
+    "postId": "610dc64c-8202-477b-8938-20ce29a29cfe",
+    "date": "2025-03-18T17:00:04.172Z"
+  },
+  {
+    "id": "12dac412-7aba-4c7e-b73a-44a751cf0402",
+    "author": "David Wilson",
+    "content": "Great explanation of React Context. Really useful!",
+    "postId": "4567890abcdef-1234-5678-90ab-cdef12345678",
+    "date": "2025-03-18T17:15:12.832Z"
+  },
+  {
+    "id": "1789e4e5-ca60-473a-b70c-96b566696746",
+    "author": "Laura Martinez",
+    "content": "This post on React performance optimization is excellent. Thanks!",
+    "postId": "f1234567890a-bcde-f123-4567-890abcdef1234",
+    "date": "2025-03-18T17:39:06.573Z"
+  },
+  {
+    "id": "fa96a2a0-d96f-4740-8644-2fe9deb96c40",
+    "author": "James Anderson",
+    "content": "Very helpful post on React forms. Clear and easy to follow!",
+    "postId": "f1234567890a-bcde-f123-4567-890abcdef1234",
+    "date": "2025-03-18T19:09:31.495Z"
+  },
+  {
+    "id": "a939d22e-9c6c-431f-934d-f9f04886f50b",
+    "author": "Olivia Taylor",
+    "content": "This post on React Redux is great. Really improved my understanding!",
+    "postId": "f1234567890a-bcde-f123-4567-890abcdef1234",
+    "date": "2025-03-18T19:16:44.043Z"
+  },
+  {
+    "id": "630f1898-a317-4165-bb18-62636f4f43f4",
+    "author": "Nicolas Jackksen",
+    "content": "great Topic must be search on it and get more understanding ",
+    "postId": "7890abcdef12-3456-7890-abcd-ef1234567890",
+    "date": "2025-03-18T19:34:57.334Z"
+  }
+]
