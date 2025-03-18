@@ -23,7 +23,7 @@ The Blog Management Application is a web-based platform that allows users to cre
  
 * Frontend: React, Tailwind CSS 
 * Backend: Node.js, Express
-* Database: (Specify the database used, e.g., MongoDB, PostgreSQL)
+* Database: ()
  
  
 ## Installation
